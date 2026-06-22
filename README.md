@@ -1,20 +1,39 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+# CodeWise AI
 
-# Run and deploy your AI Studio app
+CodeWise AI - Intelligent code assistance and analysis platform.
 
-This contains everything you need to run your app locally.
+## Project Structure
 
-View your app in AI Studio: https://ai.studio/apps/35045fdb-69b0-4d67-a9bb-3f955551634c
+```
+CodeWise-AI/
+├── src/
+│   ├── components/
+│   │   └── [React components]
+│   ├── pages/
+│   │   └── [Page components]
+│   ├── hooks/
+│   │   └── [Custom React hooks]
+│   ├── utils/
+│   │   └── [Utility functions]
+│   ├── services/
+│   │   └── [API and external services]
+│   ├── types/
+│   │   └── [TypeScript type definitions]
+│   ├── styles/
+│   │   └── [CSS stylesheets]
+│   └── App.tsx
+├── public/
+│   └── [Static assets]
+├── tests/
+│   └── [Test files]
+├── package.json
+├── tsconfig.json
+├── .gitignore
+└── README.md
+```
 
-## Run Locally
+## Language Composition
 
-**Prerequisites:**  Node.js
-
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+- **TypeScript**: 97.8%
+- **CSS**: 1.7%
+- **HTML**: 0.5%
