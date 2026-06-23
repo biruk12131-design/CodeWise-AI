@@ -68,7 +68,7 @@ CodeWise-AI/
 
 📸 Screenshot
 
-https://placehold.co/800x500?text=CodeWise+AI
+![CodeWise-Ai](Copilot_20260624_022055.png)
 
 
 🚦 Getting Started
